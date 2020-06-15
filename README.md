@@ -7,6 +7,8 @@ It is a platform with a lot of amazing functionalities towards social benefits i
 - Giving system user ability of posting and advertising their products online for makert search.
 - Giving system user ability to watch and stream both football match fixtures, results and live match on both local and international leagues.
 - Storing system user database which can later be used for further kind of stuffs.
+- Also the system can give an Alert to system user concerning health danger in the targeted country.
+
 
 TECHNOLOGIES USED
 - Java Server Page (JSP) server-side programming language, HTML, CSS and oracle database.
