@@ -17,4 +17,6 @@ NB:
 You can access your own location by using the platform by using Map API enabled in.
 
 ![health1](https://user-images.githubusercontent.com/52234785/84734936-e9cc4180-afaa-11ea-9272-84b96cc2cb45.PNG)
+![health2](https://user-images.githubusercontent.com/52234785/84740954-f787c400-afb6-11ea-8e14-32e2f2cc3971.PNG)
+
 
